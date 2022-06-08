@@ -16,6 +16,12 @@ Monster Chase Game, This my first Project with Unity Engine
 
 https://user-images.githubusercontent.com/106058972/172420252-d0208b57-f646-454b-ba74-0c4b968cd220.mp4
 
+#Assets
+https://mega.nz/folder/g9VB0a5K#1jrKQ4LwIJmedXacR5boJg
+
+#Compile game
+https://drive.google.com/drive/folders/1h5FhbcHgV8hBcd3S9go9Jb5vnySMQFlu?usp=sharing
+
 
 # Credit 
 freeCodeCamp.org https://www.youtube.com/watch?v=gB1F9G0JXOo
