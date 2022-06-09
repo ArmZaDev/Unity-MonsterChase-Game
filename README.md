@@ -22,6 +22,8 @@ https://mega.nz/folder/g9VB0a5K#1jrKQ4LwIJmedXacR5boJg
 #launcher game
 https://drive.google.com/drive/folders/1h5FhbcHgV8hBcd3S9go9Jb5vnySMQFlu?usp=sharing
 
+Version Unity 2020.3.35f1 
+
 
 # Credit 
 freeCodeCamp.org https://www.youtube.com/watch?v=gB1F9G0JXOo
